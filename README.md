@@ -36,5 +36,13 @@ This repository contains all project documentation, code, dataset material, pres
 - Demo video of full operation: 
   https://youtu.be/oy8ZiAV3AzI
 
+## Line Navigation Notes
+
+The line navigation module has its own README file that explains how to run it.  
+Other scripts can be run directly from the terminal.  
+For ROS-based scripts, Rosmaster must be running and located in a well-defined path.
+
+This project is not intended to be run from a Jupyter Notebook.  
+The robot control stack is ROS-based and must be executed from the terminal with Rosmaster running.
 
 
